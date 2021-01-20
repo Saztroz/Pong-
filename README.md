@@ -1,1 +1,1 @@
-# Pong-
+Implementation of pong arcade game
